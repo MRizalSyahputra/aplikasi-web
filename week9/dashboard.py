@@ -12,12 +12,6 @@ import re
 import string
 import joblib
 
-def styling(file_name):
-    with open(file_name) as f:
-        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
-styling("style.css")
-
 st.title("NLP Dashboard Bahasa Indonesia")
 
 @st.cache_data
