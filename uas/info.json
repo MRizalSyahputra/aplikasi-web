@@ -1,0 +1,40 @@
+{
+    "adas": {
+        "description": "\n Adas adalah rempah yang sering digunakan dalam masakan. \n\n Ini memberikan aroma harum khas yang cocok untuk sup atau kari.",
+        "recipes": [
+            {
+                "name": "Kue Adas",
+                "link": "https://cookpad.com/id/resep/17292843-kue-adas?ref=search&search_term=adas",
+                "image": "https://cookpad.com/id/step_attachment/images/11f5fcc6808465f8?image_region_id=26"
+            }
+        ],
+        "notes": "Adas memiliki kemiripan visual dengan jintan, sehingga hasil analisis mungkin tertukar dengan jintan. Untuk mengetahui bedanya, silahkan akses link di bawah",
+        "diff": [
+            {
+                "name": "Perbedaan jintan dan adas",
+                "link": "https://www.rri.co.id/kuliner/717321/rempah-rempah-ini-bentuknya-mirip-padahal-berbeda#:~:text=Jintan%20atau%20jinten%20berukuran%20lebih,dan%20rasa%20yang%20cenderung%20manis"
+            }
+        ]
+    }
+    ,
+    "andaliman": {
+        "description": "Andaliman adalah rempah khas yang memberikan rasa pedas yang unik.",
+        "recipes": [
+            {
+                "name": "Ayam Bumbu Andaliman",
+                "link": "https://contoh.com/resep-ayam-andaliman"
+            }
+        ],
+        "notes": "Biasa digunakan dalam masakan khas Batak."
+    },
+    "...": {
+        "description": "Deskripsi lainnya.",
+        "recipes": [
+            {
+                "name": "Nama masakan",
+                "link": "https://contoh.com/resep-nama-masakan"
+            }
+        ],
+        "notes": "Catatan lainnya."
+    }
+}
