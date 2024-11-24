@@ -1,40 +1,123 @@
 {
     "adas": {
-        "description": "\n Adas adalah rempah yang sering digunakan dalam masakan. \n\n Ini memberikan aroma harum khas yang cocok untuk sup atau kari.",
-        "recipes": [
-            {
-                "name": "Kue Adas",
-                "link": "https://cookpad.com/id/resep/17292843-kue-adas?ref=search&search_term=adas",
-                "image": "https://cookpad.com/id/step_attachment/images/11f5fcc6808465f8?image_region_id=26"
-            }
-        ],
-        "notes": "Adas memiliki kemiripan visual dengan jintan, sehingga hasil analisis mungkin tertukar dengan jintan. Untuk mengetahui bedanya, silahkan akses link di bawah",
-        "diff": [
-            {
-                "name": "Perbedaan jintan dan adas",
-                "link": "https://www.rri.co.id/kuliner/717321/rempah-rempah-ini-bentuknya-mirip-padahal-berbeda#:~:text=Jintan%20atau%20jinten%20berukuran%20lebih,dan%20rasa%20yang%20cenderung%20manis"
-            }
-        ]
-    }
-    ,
+        "description": "Adas adalah rempah yang sering digunakan dalam masakan. Ini memberikan aroma harum khas yang cocok untuk sup atau kari.",
+        "notes": "Adas biasanya digunakan untuk memberikan aroma khas yang lembut dan sedikit manis dalam masakan. Rempah ini sering digunakan dalam hidangan berkuah seperti sup, kari, dan masakan berbahan dasar ikan. Selain itu, adas juga sering dijadikan bahan tambahan dalam pembuatan roti atau kue untuk memberikan rasa unik dan aroma harum. Kandungan minyak atsiri pada adas dipercaya memiliki manfaat kesehatan, seperti membantu pencernaan dan meredakan gangguan perut. Penggunaannya sangat populer di berbagai masakan tradisional Indonesia maupun masakan dari Timur Tengah.",
+        "diff": "Adas memiliki kemiripan visual dengan jintan, sehingga hasil analisis mungkin tertukar dengan jintan."
+    },
     "andaliman": {
         "description": "Andaliman adalah rempah khas yang memberikan rasa pedas yang unik.",
-        "recipes": [
-            {
-                "name": "Ayam Bumbu Andaliman",
-                "link": "https://contoh.com/resep-ayam-andaliman"
-            }
-        ],
-        "notes": "Biasa digunakan dalam masakan khas Batak."
+        "notes": "Biasa digunakan dalam masakan khas Batak seperti arsik dan saksang."
     },
-    "...": {
-        "description": "Deskripsi lainnya.",
-        "recipes": [
-            {
-                "name": "Nama masakan",
-                "link": "https://contoh.com/resep-nama-masakan"
-            }
-        ],
-        "notes": "Catatan lainnya."
+    "asam jawa": {
+        "description": "Asam Jawa memberikan rasa asam alami pada masakan dan sering digunakan dalam bumbu rujak, sayur asam, dan minuman tradisional.",
+        "notes": "Simpan di tempat yang sejuk dan kering untuk menjaga kesegarannya."
+    },
+    "bawang bombai": {
+        "description": "Bawang bombai adalah bawang dengan rasa manis yang sering digunakan dalam masakan barat atau tumisan.",
+        "notes": "Cocok untuk memberikan rasa manis alami pada masakan."
+    },
+    "bawang merah": {
+        "description": "Bawang merah adalah bahan pokok yang sering digunakan dalam masakan Indonesia untuk memberikan aroma dan rasa khas.",
+        "notes": "Gunakan bawang merah segar untuk rasa yang lebih baik."
+    },
+    "bawang putih": {
+        "description": "Bawang putih adalah bahan utama dalam banyak masakan dan dikenal karena aroma dan rasa yang kuat.",
+        "notes": "Juga dikenal memiliki manfaat kesehatan seperti meningkatkan imunitas."
+    },
+    "biji ketumbar": {
+        "description": "Biji ketumbar adalah rempah aromatik yang sering digunakan dalam bumbu kari, gulai, dan rendang.",
+        "notes": "Sangrai biji ketumbar sebelum digiling untuk mengeluarkan aroma yang lebih tajam."
+    },
+    "bunga lawang": {
+        "description": "Bunga lawang adalah rempah berbentuk bintang yang memiliki rasa manis dan aromatik. Sering digunakan dalam masakan Asia.",
+        "notes": "Tambahkan bunga lawang ke sup atau masakan berkuah untuk rasa yang lebih kompleks."
+    },
+    "cengkeh": {
+        "description": "Cengkeh adalah rempah dengan rasa pedas dan hangat, sering digunakan dalam minuman tradisional seperti wedang.",
+        "notes": "Gunakan secukupnya karena rasanya yang kuat."
+    },
+    "daun jeruk": {
+        "description": "Daun jeruk memberikan aroma segar dan khas pada masakan seperti tom yam atau ayam goreng.",
+        "notes": "Buang tulang daun untuk tekstur masakan yang lebih halus."
+    },
+    "daun kemangi": {
+        "description": "Daun kemangi adalah daun herbal yang memiliki aroma segar dan sering digunakan sebagai lalapan atau pelengkap masakan.",
+        "notes": "Tambahkan pada akhir memasak untuk menjaga aroma segarnya."
+    },
+    "daun ketumbar": {
+        "description": "Daun ketumbar adalah daun yang memberikan rasa segar dan sering digunakan dalam masakan Asia dan Amerika Latin.",
+        "notes": "Penyimpanan di tempat dingin dapat memperpanjang kesegarannya."
+    },
+    "daun salam": {
+        "description": "Daun salam adalah daun aromatik yang sering digunakan dalam masakan Indonesia seperti rendang dan semur.",
+        "notes": "Gunakan dalam jumlah kecil karena aromanya cukup kuat."
+    },
+    "jahe": {
+        "description": "Jahe adalah rempah yang memiliki rasa pedas hangat dan digunakan dalam masakan serta minuman seperti wedang jahe.",
+        "notes": "Jahe segar memiliki rasa lebih kuat dibandingkan jahe bubuk."
+    },
+    "jinten": {
+        "description": "Jinten adalah rempah yang memberikan rasa pedas hangat dan sering digunakan dalam masakan India dan Timur Tengah.",
+        "notes": "Gunakan jinten yang sudah disangrai untuk rasa lebih intens."
+    },
+    "kapulaga": {
+        "description": "Kapulaga adalah rempah berbentuk biji kecil yang memberikan rasa manis dan hangat pada masakan.",
+        "notes": "Tambahkan pada minuman seperti teh masala untuk rasa khas."
+    },
+    "kayu manis": {
+        "description": "Kayu manis adalah rempah dengan rasa manis dan hangat yang sering digunakan dalam kue atau minuman.",
+        "notes": "Kayu manis batangan memiliki aroma yang lebih tahan lama dibandingkan bubuk."
+    },
+    "kayu secang": {
+        "description": "Kayu secang adalah bahan tradisional yang sering digunakan untuk minuman herbal seperti wedang uwuh.",
+        "notes": "Berikan waktu perebusan yang cukup untuk warna merah yang lebih pekat."
+    },
+    "kemiri": {
+        "description": "Kemiri adalah biji yang sering digunakan sebagai bahan pengental dalam masakan seperti opor dan sambal.",
+        "notes": "Sangrai kemiri sebelum diolah untuk mengurangi rasa pahit."
+    },
+    "kemukus": {
+        "description": "Kemukus adalah rempah yang sering digunakan dalam masakan tradisional untuk memberikan rasa pedas lembut.",
+        "notes": "Gunakan dalam jumlah kecil karena rasanya cukup dominan."
+    },
+    "kencur": {
+        "description": "Kencur adalah rempah yang memiliki rasa pedas segar, sering digunakan dalam masakan tradisional seperti sayur bening.",
+        "notes": "Kencur segar memiliki rasa yang lebih khas dibandingkan kencur bubuk."
+    },
+    "kluwek": {
+        "description": "Kluwek adalah bahan utama dalam masakan seperti rawon, memberikan warna hitam dan rasa khas.",
+        "notes": "Pastikan kluwek yang digunakan sudah matang dan aman dikonsumsi."
+    },
+    "kunyit": {
+        "description": "Kunyit adalah rempah dengan warna kuning cerah yang memberikan warna dan rasa khas pada masakan.",
+        "notes": "Biasa digunakan dalam masakan seperti opor, kari, dan nasi kuning."
+    },
+    "lada": {
+        "description": "Lada adalah rempah yang memberikan rasa pedas dan hangat, tersedia dalam bentuk lada hitam dan lada putih.",
+        "notes": "Giling lada segar untuk rasa yang lebih intens."
+    },
+    "lengkuas": {
+        "description": "Lengkuas adalah rempah dengan aroma segar dan rasa pedas ringan, sering digunakan dalam masakan seperti rendang dan soto.",
+        "notes": "Potong lengkuas menjadi irisan untuk memudahkan mengeluarkan aroma saat dimasak."
+    },
+    "pala": {
+        "description": "Pala adalah rempah dengan rasa manis pedas yang sering digunakan dalam masakan dan kue tradisional.",
+        "notes": "Tambahkan pala bubuk pada sop atau saus untuk rasa yang lebih kaya."
+    },
+    "saffron": {
+        "description": "Saffron adalah rempah yang sangat mahal dan digunakan untuk memberikan warna serta aroma khas pada makanan.",
+        "notes": "Gunakan hanya beberapa helai untuk rasa yang optimal."
+    },
+    "serai": {
+        "description": "Serai adalah rempah yang memberikan aroma segar pada masakan dan sering digunakan dalam masakan seperti sate lilit dan tom yam.",
+        "notes": "Memarkan batang serai sebelum digunakan untuk mengeluarkan aroma yang lebih kuat."
+    },
+    "vanili": {
+        "description": "Vanili adalah bahan yang sering digunakan dalam pembuatan kue dan minuman untuk memberikan rasa manis dan aroma khas.",
+        "notes": "Gunakan vanili alami untuk aroma yang lebih kuat dibandingkan vanili sintetis."
+    },
+    "wijen": {
+        "description": "Wijen adalah biji kecil yang sering digunakan sebagai taburan pada kue atau masakan seperti sushi dan onde-onde.",
+        "notes": "Sangrai wijen sebelum digunakan untuk aroma yang lebih harum."
     }
 }
