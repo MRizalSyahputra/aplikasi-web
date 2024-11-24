@@ -23,7 +23,7 @@ def add_background(image_path):
     """
     st.markdown(bg_style, unsafe_allow_html=True)
 
-image_path = r"./assets/40944.png"
+image_path = "./assets/40944.png"
 
 # Tambahkan background
 add_background(image_path)
@@ -34,7 +34,7 @@ def load_css(file_path):
     with open(file_path) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-load_css("style.css")
+load_css("./style.css")
 
 # Label mapping
 label_mapping = {
