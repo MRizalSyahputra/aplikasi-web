@@ -23,7 +23,7 @@ def add_background(image_path):
     """
     st.markdown(bg_style, unsafe_allow_html=True)
 
-image_path = r"40944.jpg"
+image_path = r"assets/40944.jpg"
 
 # Tambahkan background
 add_background(image_path)

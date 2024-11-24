@@ -4,11 +4,6 @@
     font-family: 'Roboto', sans-serif;  
 }
 
-body {
-    background-image: url("40944.jpg");
-    background-color: #c24545;
-   }
-
 .navbar{
     background-color: #FFF7D1; /* Hilangkan tanda kurung */
 }
