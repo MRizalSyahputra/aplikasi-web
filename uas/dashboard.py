@@ -6,7 +6,6 @@ from torchvision import transforms
 from PIL import Image
 import json
 import time
-import base64
 
 # Fungsi untuk memuat file CSS
 def load_css(file_path):
