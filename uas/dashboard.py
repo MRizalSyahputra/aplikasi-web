@@ -6,28 +6,6 @@ from torchvision import transforms
 from PIL import Image
 import json
 import time
-import base64
-
-def add_background(image_path):
-    with open(image_path, "rb") as img_file:
-        b64_image = base64.b64encode(img_file.read()).decode()
-    bg_style = f"""
-    <style>
-    [data-testid="stAppViewContainer"] {{
-        background-image: url("data:image/jpeg;base64,{b64_image}");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-    }}
-    </style>
-    """
-    st.markdown(bg_style, unsafe_allow_html=True)
-
-image_path = r"./assets/40944.png"
-
-# Tambahkan background
-add_background(image_path)
-
 
 # Fungsi untuk memuat file CSS
 def load_css(file_path):
